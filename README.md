@@ -1,9 +1,3 @@
-# COSC499Project
-Branch name/Person working on Branch | Description
------------- | ------------- 
-master |
-Lily |
-Jason |
-Karim |
-Skylar | updated readme
-Amneet | Max Feature.
+# Max Feature
+## Instructions.
+This feature when called asks the user for an input of 9 numbers and then prints the max value from that list.
