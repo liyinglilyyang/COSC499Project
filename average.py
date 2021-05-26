@@ -11,3 +11,4 @@ def calculate_average():
         if a_list[i] > average:
             print(a_list[i] , end = "  ")
     print()
+calculate_average()
