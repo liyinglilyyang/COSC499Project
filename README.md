@@ -1,3 +1,9 @@
-# Max Feature
-## Instructions.
-This feature when called asks the user for an input of 9 numbers and then prints the max value from that list. Import the max file in the main file so that the calculate_max function can be called.
+# COSC499Project
+Person working on Branch | Branch Name | Description
+------------ | -------------  | ------------- 
+All team members | master |
+Lily | Odd&Even Feature | print out odd/even number
+Jason |
+Karim |
+Skylar | updated readme
+Amneet | Max Feature | Out of a list of 9 integers prints the highest value.
