@@ -2,7 +2,7 @@
 Person working on Branch | Branch Name | Description
 ------------ | -------------  | ------------- 
 All team members | master |
-Lily |
+Lily | Odd&Even Feature | print out odd/even number
 Jason |
 Karim |
 Skylar | updated readme
