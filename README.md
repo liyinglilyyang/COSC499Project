@@ -1,9 +1,9 @@
 # COSC499Project
-Branch name/Person working on Branch | Description
------------- | ------------- 
-master |
+Person working on Branch | Branch Name | Description
+------------ | -------------  | ------------- 
+All team members | master |
 Lily |
 Jason |
 Karim |
 Skylar | updated readme
-Amneet |
+Amneet | Max Feature | Out of a list of 9 integers prints the highest value.
