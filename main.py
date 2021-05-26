@@ -6,5 +6,3 @@ def create_list():
         x = a_list.append(int(input("Please enter an integer: ")))
               
 create_list()
-
-calculate_max()
