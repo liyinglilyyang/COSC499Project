@@ -1,0 +1,1 @@
+This feature returns the minimum element from the given array.
