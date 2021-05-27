@@ -2,14 +2,16 @@ from factorial import calculate_factorial
 from max import calculate_max
 from average import calculate_average
 from factorial import calculate_factorial
+from findMin import calculate_min
 
 def create_list():
     a_list = []
     for i in range(9):
         x = a_list.append(int(input("Please enter an integer: ")))
+    return a_list
               
-create_list()
-
+a_list = create_list()
+print("The minimum number is: ", calculate_min(a_list))
 
 def oddEven_list():
     number = int(input("Enter a number: "))  

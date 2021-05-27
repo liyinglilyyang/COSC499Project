@@ -1,4 +1,4 @@
-def findMin(arr):
+def calculate_min(arr):
     if(len(arr) == 0):
         return -1
     min = arr[0]
