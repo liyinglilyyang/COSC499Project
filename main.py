@@ -1,5 +1,8 @@
+from factorial import calculate_factorial
 from max import calculate_max
 from average import calculate_average
+from factorial import calculate_factorial
+
 def create_list():
     a_list = []
     for i in range(9):
@@ -18,3 +21,5 @@ def oddEven_list():
 oddEven_list()
 calculate_average()
 calculate_max()
+calculate_factorial()
+
