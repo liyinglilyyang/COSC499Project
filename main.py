@@ -1,5 +1,5 @@
 from max import calculate_max
-
+from average import calculate_average
 def create_list():
     a_list = []
     for i in range(9):
@@ -16,5 +16,5 @@ def oddEven_list():
         print("Odd")
 
 oddEven_list()
-
+calculate_average()
 calculate_max()
