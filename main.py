@@ -13,13 +13,6 @@ def create_list():
 a_list = create_list()
 print("The minimum number is: ", calculate_min(a_list))
 
-def oddEven_list():
-    number = int(input("Enter a number: "))  
-    if (number% 2) == 0:  
-        print("Even")  
-    else:  
-        print("Odd")
-
 oddEven_list()
 calculate_average()
 calculate_max()
@@ -29,3 +22,4 @@ calculate_factorial()
 # Max reviewed by: Karim
 # Min reviewed by: Amneet
 # Factorial reviewed by: Karim
+# Odd/Even reviewed by : Lily
