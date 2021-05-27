@@ -1,6 +1,8 @@
 def findMin(arr):
-    min = 1000000
+    if(len(arr) == 0):
+        return -1
+    min = arr[0]
     for element in arr:
         if(min > element):
             min = element
-    return element
+    return min
