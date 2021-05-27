@@ -1,3 +1,5 @@
+from max import calculate_max
+
 def create_list():
     a_list = []
     for i in range(9):
@@ -14,3 +16,5 @@ def oddEven_list():
         print("Odd")
 
 oddEven_list()
+
+calculate_max()
