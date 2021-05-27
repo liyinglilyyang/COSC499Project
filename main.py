@@ -5,4 +5,16 @@ def create_list():
     for i in range(9):
         x = a_list.append(int(input("Please enter an integer: ")))
               
+create_list()
+
+
+def oddEven_list():
+    number = int(input("Enter a number: "))  
+    if (number% 2) == 0:  
+        print("Even")  
+    else:  
+        print("Odd")
+
+oddEven_list()
+
 calculate_max()
