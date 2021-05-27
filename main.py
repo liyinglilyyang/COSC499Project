@@ -23,3 +23,7 @@ calculate_average()
 calculate_max()
 calculate_factorial()
 
+# Average reviewed by: Jason
+# Max reviewed by: Karim
+# Min reviewed by: Amneet
+# Factorial reviewed by: Karim
