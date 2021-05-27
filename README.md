@@ -6,7 +6,7 @@ Lily | Odd&Even Feature | print out odd/even number
 Jason |
 Karim | averageFeature | prints out the average of 9 numbers from user input
 Skylar | updated readme
-Amneet | Max Feature | Out of a list of 9 integers prints the highest value.
+Amneet | maxFeature | Out of a list of 9 integers prints the highest value.
 
 # Average Feature
 ## Purpose
@@ -14,3 +14,8 @@ Amneet | Max Feature | Out of a list of 9 integers prints the highest value.
 ## Insructions
 ### To run this program from the command line <br> you must type "python average.py" <br> Once running it will prompt for user input <br> Enter any selection of integers 9 times Then the output is displayed
 
+# Max Feature
+## Purpose
+Asks the user to input 9 integers and prints the highest "max" value.
+## Instructions
+Insure the max.py file is imported into the main file and within the main file call the calculate_max() function. Follow the user prompt and enter 9 integers. From here the function will return the max value.
